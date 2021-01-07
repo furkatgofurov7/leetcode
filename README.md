@@ -1,2 +1,2 @@
 # leetcode
- My Leetcode Solutions
+ My Leetcode Solutions in Golang. Let's Go!
